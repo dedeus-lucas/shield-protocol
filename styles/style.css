@@ -205,12 +205,14 @@ body::after {
 /* HERO VISUAL */
 
 .hero-visual {
+  border: 1px solid rgba(139, 92, 246, 0.12);
   overflow: hidden;
   padding: 1rem;
 }
 
 .hero-visual img {
   border-radius: var(--radius-md);
+  opacity: 0.92;
 }
 
 /* DESKTOP */
