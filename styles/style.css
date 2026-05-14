@@ -109,12 +109,18 @@ body::after {
 /* NAVBAR */
 
 .navbar-wrapper {
-  position: sticky;
+  position: fixed;
   top: 0;
+  left: 0;
+  width: 100%;
   z-index: 1000;
-  backdrop-filter: blur(18px);
+  padding:
+    1rem 0;
   background:
-    rgba(6, 7, 10, 0.55);
+    linear-gradient(rgba(6, 7, 10, 0.72),
+      rgba(6, 7, 10, 0.18));
+  backdrop-filter:
+    blur(18px);
   border-bottom:
     1px solid rgba(255, 255, 255, 0.04);
 }
@@ -123,7 +129,19 @@ body::after {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 88px;
+  padding:
+    1rem 1.4rem;
+  border:
+    1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 18px;
+  background:
+    rgba(10, 12, 18, 0.55);
+  backdrop-filter:
+    blur(18px);
+  box-shadow:
+    0 8px 30px rgba(0, 0, 0, 0.18);
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .navbar-brand {
@@ -207,7 +225,7 @@ body::after {
   display: grid;
   gap: clamp(3rem, 6vw, 6rem);
   align-items: center;
-  padding-top: clamp(4rem, 8vw, 7rem);
+  padding-top: 9rem;
 }
 
 .hero-text {
