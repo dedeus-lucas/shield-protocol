@@ -116,10 +116,10 @@ const ptBR = {
   footerContactLabel: "CONTATO",
 
   footerContactTitle:
-    "Construindo conhecimento, projetos e evolução contínua em engenharia de software.",
+    "Construindo projetos, conhecimento e soluções orientadas à engenharia.",
 
   footerContactDescription:
-    "Aberto para conexões profissionais, oportunidades, colaboração técnica e desenvolvimento contínuo.",
+    "Aberto para oportunidades, freelas, colaboração técnica e projetos reais.",
 
-  footerCurrentYear: "Todos os direitos reservados.",
+  footerCopyright: "© 2026 Shield Protocol. Todos os direitos reservados.",
 };

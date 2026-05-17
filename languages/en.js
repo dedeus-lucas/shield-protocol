@@ -129,10 +129,10 @@ const enUS = {
   footerContactLabel: "CONTACT",
 
   footerContactTitle:
-    "Building knowledge, projects and continuous evolution in software engineering.",
+    "Building projects, knowledge and engineering-oriented solutions.",
 
   footerContactDescription:
-    "Open to professional connections, opportunities, technical collaboration and continuous development.",
+    "Open to opportunities, freelance work, technical collaboration and real projects.",
 
-  footerCurrentYear: "All rights reserved.",
+  footerCopyright: "© 2026 Shield Protocol. All rights reserved.",
 };
