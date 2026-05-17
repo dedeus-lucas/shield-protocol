@@ -1,6 +1,16 @@
 # Shield Protocol
 
-> Secure Systems Engineering
+> Secure Systems Engineering Portfolio & Technical Hub
+
+Portfólio técnico e hub de engenharia voltado para backend, arquitetura segura, segurança de APIs, DevSecOps e evolução contínua em engenharia de software.
+
+---
+
+## 🌐 Live Project
+
+GitHub Pages:
+
+https://dedeus-lucas.github.io/shield-protocol/
 
 ---
 
@@ -8,22 +18,31 @@
 
 ## Sobre o Projeto
 
-Shield Protocol é um portfólio técnico e hub de engenharia criado para centralizar projetos, evolução profissional, estudos de segurança e desenvolvimento backend com foco em arquitetura segura.
+Shield Protocol é um portfólio técnico criado para centralizar projetos, estudos, evolução profissional e aplicações reais voltadas para engenharia de software e segurança.
 
-O projeto representa uma jornada contínua de aprendizado e construção em engenharia de software, segurança e infraestrutura moderna.
+O projeto representa minha jornada contínua em:
+
+- Engenharia Backend
+- Arquitetura Segura
+- Segurança de APIs
+- Cloud Security
+- DevSecOps
+- Desenvolvimento de aplicações reais
+- Mentalidade de engenharia
+- Crescimento técnico de longo prazo
+
+Mais do que um portfólio visual, o projeto funciona como um hub de construção técnica, experimentação e evolução profissional.
 
 ---
 
-## Objetivos Principais
+## Objetivos
 
-- Engenharia backend
-- Arquitetura segura
-- Segurança de APIs
-- DevSecOps
-- Cloud Security
-- Sistemas escaláveis
-- Mentalidade de engenharia
-- Evolução técnica contínua
+- Construir projetos reais
+- Consolidar fundamentos de engenharia
+- Evoluir arquitetura e segurança
+- Documentar crescimento técnico
+- Desenvolver soluções orientadas a sistemas
+- Criar laboratório contínuo de aprendizagem
 
 ---
 
@@ -31,51 +50,145 @@ O projeto representa uma jornada contínua de aprendizado e construção em enge
 
 Atualmente aprofundando conhecimentos em:
 
-- Java & Spring Boot
-- APIs REST
+### Backend & Engenharia
+
+- Java
+- Spring Boot
+- REST APIs
 - Fluxos de autenticação
-- Arquitetura backend segura
-- Ecossistema Linux
-- Fundamentos DevSecOps
-- Expansão em Python e PHP
+- Arquitetura backend
 - System Design
+
+### Segurança & Infraestrutura
+
+- Linux
+- API Security
+- Cloud Security
+- Docker
+- Observabilidade
+- Fundamentos DevSecOps
+
+### Expansão Técnica
+
+- PHP
+- Python
+- Automação
+- IA aplicada
+- Aplicações reais
+
+---
+
+## Projetos Atuais
+
+### Shield Protocol Labs
+
+Laboratório contínuo focado em:
+
+- APIs seguras
+- Arquitetura
+- Observabilidade
+- Backend
+- DevSecOps
+- Testes e experimentações
+
+Status:
+
+🚧 Em evolução contínua
+
+---
+
+### VL Estética & Fisiotherapia
+
+Landing page institucional premium desenvolvida para clínica de estética e fisioterapia.
+
+Objetivos:
+
+- Performance
+- Responsividade
+- Acessibilidade
+- UX moderna
+- Experiência premium
+
+Stack:
+
+- HTML
+- CSS
+- JavaScript
+
+Deploy:
+
+https://dedeus-lucas.github.io/vl-estetica-fisio-static/
+
+Repositórios:
+
+Static:
+
+https://github.com/dedeus-lucas/vl-estetica-fisio-static
+
+Platform (evolução PHP):
+
+https://github.com/dedeus-lucas/vl-estetica-fisio-platform
+
+Status:
+
+✅ MVP entregue
+
+🚧 Evolução backend em andamento
 
 ---
 
 ## Stack Tecnológica
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
-### Backend & Engenharia
+### Backend
+
 - Java
 - Spring Boot
 - REST APIs
 - PHP
 - Python
 
-### Segurança & Infraestrutura
+### Segurança
+
+- API Security
+- Cloud Security
+- DevSecOps
+- Secure Architecture
+
+### Infraestrutura
+
 - Linux
 - Docker
-- API Security
-- DevSecOps
-- Conceitos de Cloud Security
+- Observabilidade
 
 ---
 
-## Estrutura do Projeto
+## Estrutura Atual
 
 ```txt
 shield-protocol/
 │
 ├── assets/
+│   │
 │   ├── backgrounds/
 │   ├── favicons/
-│   ├── icons
-│   ├── images
-│   └── logos/
+│   ├── icons/
+│   ├── images/
+│   ├── logos/
+│   └── projects/
+│
+├── js/
+│   ├── script.js
+│   └── language.js
+│
+├── languages/
+│   ├── pt-br.js
+│   └── en.js
 │
 ├── styles/
 │   ├── reset.css
@@ -84,7 +197,6 @@ shield-protocol/
 │   ├── layout.css
 │   └── style.css
 │
-├── script.js
 ├── index.html
 └── README.md
 ```
@@ -93,43 +205,65 @@ shield-protocol/
 
 ## Roadmap
 
-### Fase Atual
-- Estrutura premium de portfólio
-- Interface responsiva
-- Glassmorphism moderno
-- Deploy via GitHub Pages
+### Concluído
+
+- Estrutura premium
+- UI responsiva
+- Sistema bilíngue
+- GitHub Pages
+- Refatoração visual
+- Glassmorphism
+- Projetos reais
 
 ### Próximos Passos
-- Melhorias de acessibilidade
+
 - SEO avançado
-- Otimização de performance
-- Integração de projetos reais
+- Melhorias de acessibilidade
+- Performance
+- Novos projetos
 - Integração backend
-- Sistema de documentação/blog
-- Expansão multilíngue
+- Área documental
+- Blog técnico
+- Observabilidade
+- CI/CD
+- Cloud deployment
+- AppSec
+- DevSecOps
 
 ---
 
-## Deploy
+## Planejamento Futuro
 
-O projeto será publicado inicialmente utilizando GitHub Pages.
+Estrutura planejada:
 
-Estrutura futura planejada:
 - Domínio próprio
-- Hospedagem cloud
-- Pipeline CI/CD
+- Deploy cloud
+- CI/CD
 - Monitoramento
 - Observabilidade
+- Projetos empresariais
+- Expansão backend
+- Aplicações SaaS
 
 ---
 
 ## Contato
 
-### GitHub
-- https://github.com/dedeus-lucas
+GitHub:
 
-### LinkedIn
-- https://linkedin.com/in/dedeus-lucas
+https://github.com/dedeus-lucas
+
+LinkedIn:
+
+https://linkedin.com/in/dedeus-lucas
+
+E-mail:
+
+silvadedeus.lucas@gmail.com
+
+WhatsApp:
+
++55 73 98123-0728
 
 ---
 
@@ -137,7 +271,9 @@ Estrutura futura planejada:
 
 Projeto em evolução contínua.
 
-Desenvolvido com foco em engenharia de software, sistemas seguros e crescimento técnico de longo prazo.
+Construído com foco em:
+
+engenharia • arquitetura • segurança • crescimento técnico
 
 ---
 
@@ -147,60 +283,151 @@ Desenvolvido com foco em engenharia de software, sistemas seguros e crescimento 
 
 ## About The Project
 
-Shield Protocol is a technical portfolio and engineering hub designed to centralize projects, professional growth, security studies and backend development focused on secure architecture.
+Shield Protocol is a technical portfolio and engineering hub designed to centralize projects, studies and real-world applications focused on software engineering and secure systems.
 
-The project represents a continuous journey of learning and building in software engineering, security and modern infrastructure.
+The project represents a continuous journey in:
+
+- Backend Engineering
+- Secure Architecture
+- API Security
+- Cloud Security
+- DevSecOps
+- Real-world applications
+- Engineering mindset
+- Long-term technical growth
+
+More than a portfolio, it works as an engineering hub for experimentation and continuous learning.
 
 ---
 
-## Main Goals
+## Goals
 
-- Backend engineering
-- Secure architecture
-- API security
-- DevSecOps
-- Cloud Security
-- Scalable systems
-- Engineering mindset
-- Continuous technical evolution
+- Build real projects
+- Strengthen engineering foundations
+- Improve architecture and security
+- Document technical growth
+- Develop systems-oriented solutions
+- Create a continuous learning lab
 
 ---
 
 ## Current Focus
 
-Currently focused on:
+### Backend & Engineering
 
-- Java & Spring Boot
+- Java
+- Spring Boot
 - REST APIs
 - Authentication flows
-- Secure backend architecture
-- Linux ecosystem
+- Backend architecture
+- System Design
+
+### Security & Infrastructure
+
+- Linux
+- API Security
+- Cloud Security
+- Docker
+- Observability
 - DevSecOps fundamentals
-- Python and PHP expansion
-- System Design fundamentals
+
+### Technical Expansion
+
+- PHP
+- Python
+- Automation
+- Applied AI
+- Real applications
+
+---
+
+## Current Projects
+
+### Shield Protocol Labs
+
+Continuous lab focused on:
+
+- Secure APIs
+- Architecture
+- Observability
+- Backend
+- DevSecOps
+- Experiments
+
+Status:
+
+🚧 Continuous evolution
+
+---
+
+### VL Estética & Fisiotherapia
+
+Premium institutional landing page for an aesthetics and physiotherapy clinic.
+
+Goals:
+
+- Performance
+- Accessibility
+- Modern UX
+- Responsive design
+- Premium experience
+
+Stack:
+
+- HTML
+- CSS
+- JavaScript
+
+Deploy:
+
+https://dedeus-lucas.github.io/vl-estetica-fisio-static/
+
+Repositories:
+
+Static:
+
+https://github.com/dedeus-lucas/vl-estetica-fisio-static
+
+Platform (PHP evolution):
+
+https://github.com/dedeus-lucas/vl-estetica-fisio-platform
+
+Status:
+
+✅ MVP delivered
+
+🚧 Backend evolution in progress
 
 ---
 
 ## Tech Stack
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 
-### Backend & Engineering
+### Backend
+
 - Java
 - Spring Boot
 - REST APIs
 - PHP
 - Python
 
-### Security & Infrastructure
+### Security
+
+- API Security
+- Cloud Security
+- DevSecOps
+- Secure Architecture
+
+### Infrastructure
+
 - Linux
 - Docker
-- API Security
-- DevSecOps
-- Cloud Security Concepts
+- Observability
 
 ---
 
@@ -210,11 +437,21 @@ Currently focused on:
 shield-protocol/
 │
 ├── assets/
+│   │
 │   ├── backgrounds/
 │   ├── favicons/
-│   ├── icons
-│   ├── images
-│   └── logos/
+│   ├── icons/
+│   ├── images/
+│   ├── logos/
+│   └── projects/
+│
+├── js/
+│   ├── script.js
+│   └── language.js
+│
+├── languages/
+│   ├── pt-br.js
+│   └── en.js
 │
 ├── styles/
 │   ├── reset.css
@@ -223,7 +460,6 @@ shield-protocol/
 │   ├── layout.css
 │   └── style.css
 │
-├── script.js
 ├── index.html
 └── README.md
 ```
@@ -232,43 +468,45 @@ shield-protocol/
 
 ## Roadmap
 
-### Current Phase
-- Premium portfolio structure
-- Responsive interface
-- Modern glassmorphism UI
+Completed:
+
+- Premium UI
+- Responsive layout
+- Multi-language support
 - GitHub Pages deployment
+- Real project integration
 
-### Next Steps
-- Accessibility improvements
-- Advanced SEO
-- Performance optimization
-- Real project integrations
+Next Steps:
+
+- Accessibility
+- SEO
+- Performance
 - Backend integrations
-- Documentation/blog system
-- Multi-language expansion
-
----
-
-## Deployment
-
-The project will initially be deployed using GitHub Pages.
-
-Future planned structure:
-- Custom domain
-- Cloud hosting
-- CI/CD pipelines
-- Monitoring
+- Documentation system
+- Blog
 - Observability
+- CI/CD
+- Cloud deployment
 
 ---
 
 ## Contact
 
-### GitHub
-- https://github.com/dedeus-lucas
+GitHub:
 
-### LinkedIn
-- https://linkedin.com/in/dedeus-lucas
+https://github.com/dedeus-lucas
+
+LinkedIn:
+
+https://linkedin.com/in/dedeus-lucas
+
+Email:
+
+silvadedeus.lucas@gmail.com
+
+WhatsApp:
+
++55 73 98123-0728
 
 ---
 
@@ -276,4 +514,6 @@ Future planned structure:
 
 Project under continuous evolution.
 
-Built with focus on software engineering, secure systems and long-term technical growth.
+Built around:
+
+engineering • security • architecture • continuous growth
