@@ -56,31 +56,39 @@ const enUS = {
 
   journeyLabel: "JOURNEY",
 
-  journeyTitle: "Continuous evolution in engineering and security.",
+  journeyTitle:
+    "Continuous evolution in engineering, security and architecture.",
 
   journeyDescription:
-    "Building strong knowledge in backend, cloud security, scalable architecture and secure development.",
+    "Building progressive technical knowledge focused on backend engineering, cloud, security and real-world applications.",
 
-  journeyCurrentYear: "Current",
+  journeyCurrentYear: "2024",
 
-  journeyCurrentTitle: "Backend Engineering & Security",
+  journeyCurrentTitle: "Foundations & Technical Base",
 
   journeyCurrentDescription:
-    "Studies focused on Java, Spring Boot, REST APIs, authentication and secure architecture.",
+    "Beginning of the technology journey with Linux, networking, infrastructure and software engineering fundamentals, creating a strong technical base.",
 
-  journeyEvolutionYear: "In Progress",
+  journeyEvolutionYear: "2025",
 
-  journeyEvolutionTitle: "DevSecOps & Cloud",
+  journeyEvolutionTitle: "Backend, Cloud & Security",
 
   journeyEvolutionDescription:
-    "Improving knowledge in Linux, containers, observability and DevSecOps fundamentals.",
+    "Formalization of deeper studies in Cybersecurity, backend engineering, Java, JavaScript, cloud computing and secure architecture.",
 
-  journeyExpansionYear: "Expansion",
+  journeyExpansionYear: "2026",
 
-  journeyExpansionTitle: "Python & PHP",
+  journeyExpansionTitle: "Real Projects & Expansion",
 
   journeyExpansionDescription:
-    "Expanding development stack for automation, complementary backend and web ecosystems.",
+    "Practical application through freelance projects, deeper studies in PHP, Python, automation and applied AI.",
+
+  journeyFutureYear: "FUTURE",
+
+  journeyFutureTitle: "Specialization & Solutions",
+
+  journeyFutureDescription:
+    "Focus on DevSecOps, AppSec, Ethical Hacking, solution architecture and real enterprise projects.",
 
   stackLabel: "STACK",
 

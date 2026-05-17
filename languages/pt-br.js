@@ -56,31 +56,38 @@ const ptBR = {
 
   journeyLabel: "JORNADA",
 
-  journeyTitle: "Evolução contínua em engenharia e segurança.",
+  journeyTitle: "Evolução contínua em engenharia, segurança e arquitetura.",
 
   journeyDescription:
-    "Construindo conhecimento sólido em backend, cloud security, arquitetura escalável e desenvolvimento seguro.",
+    "Construindo conhecimento técnico progressivo com foco em backend, cloud, segurança e aplicações reais.",
 
-  journeyCurrentYear: "Atual",
+  journeyCurrentYear: "2024",
 
-  journeyCurrentTitle: "Engenharia Backend & Segurança",
+  journeyCurrentTitle: "Fundamentos & Base Técnica",
 
   journeyCurrentDescription:
-    "Estudos voltados para Java, Spring Boot, APIs REST, autenticação e arquitetura segura.",
+    "Início da formação em tecnologia com fundamentos de Linux, redes, infraestrutura e engenharia de software, consolidando a base para evolução técnica.",
 
-  journeyEvolutionYear: "Em evolução",
+  journeyEvolutionYear: "2025",
 
-  journeyEvolutionTitle: "DevSecOps & Cloud",
+  journeyEvolutionTitle: "Backend, Cloud & Segurança",
 
   journeyEvolutionDescription:
-    "Aprimorando conhecimentos em Linux, containers, observabilidade e fundamentos DevSecOps.",
+    "Formalização do aprofundamento em Cybersecurity, engenharia backend, Java, JavaScript, cloud computing e arquitetura segura.",
 
-  journeyExpansionYear: "Expansão",
+  journeyExpansionYear: "2026",
 
-  journeyExpansionTitle: "Python & PHP",
+  journeyExpansionTitle: "Projetos Reais & Expansão",
 
   journeyExpansionDescription:
-    "Expandindo stack de desenvolvimento para automações, backend complementar e ecossistemas web.",
+    "Aplicação prática em projetos freelancer, aprofundamento em PHP, Python, automações, IA aplicada e desenvolvimento orientado a soluções.",
+
+  journeyFutureYear: "FUTURO",
+
+  journeyFutureTitle: "Especialização & Soluções",
+
+  journeyFutureDescription:
+    "Foco em DevSecOps, AppSec, Ethical Hacking, arquitetura de soluções e desenvolvimento de projetos empresariais reais.",
 
   stackLabel: "STACK",
 
